@@ -16,7 +16,7 @@ export function AboutWelcome() {
                     className="text-center"
                 >
                     <h2 className="text-3xl md:text-5xl lg:text-7xl text-white font-bold inter-var">
-                        Welcome to iD Studio
+                        Welcome to ID Studio
                     </h2>
                     <p className="text-base md:text-lg mt-6 text-white font-normal inter-var">
                         Where imagination meets execution. Let’s create something extraordinary.

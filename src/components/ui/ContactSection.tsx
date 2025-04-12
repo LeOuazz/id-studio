@@ -27,11 +27,11 @@ export function ContactSection() {
                     transition={{ duration: 0.5 }}
                     className="text-4xl md:text-6xl font-bold mb-6"
                 >
-                    Let&aposs create something meaningful.
+                    ID Studio. Ai powered creativity.
                 </motion.h2>
 
                 <p className="text-lg text-neutral-400 mb-12">
-                    Reach out and tell us about your vision. We&aposll get back to you.
+                    Reach out and tell us about your vision.
                 </p>
 
                 <form onSubmit={handleSubmit} className="space-y-6 max-w-xl mx-auto">
