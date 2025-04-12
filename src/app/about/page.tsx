@@ -30,7 +30,7 @@ export default function AboutPage() {
                 "We craft brand identities that resonate and evolve — from bold logos to immersive guidelines that tell your story visually.",
             name: "Branding",
             designation: "Visual identity, logo design, art direction",
-            src: "/image.jpeg",
+            src: "/image.png",
         },
         {
             quote:
@@ -44,21 +44,21 @@ export default function AboutPage() {
                 "We develop full-stack applications that scale — from MVPs to custom dashboards with beautiful frontends and bulletproof backends.",
             name: "Full-Stack Development",
             designation: "React, Next.js, Firebase, Tailwind, Appwrite",
-            src: "/image4.jpeg",
+            src: "/image4.png",
         },
         {
             quote:
                 "We build intelligent agents and personalized AI assistants tailored to your workflow, using the latest in LLMs and generative AI.",
             name: "AI Agents",
             designation: "Custom GPTs, workflow automation, LLM integration",
-            src: "/image(1).jpeg",
+            src: "/image(1).png",
         },
         {
             quote:
                 "From scheduling to strategic insights, we help you create personal AI copilots that act with precision and context-awareness.",
             name: "Personal AI Assistant",
             designation: "Copilots, assistants, multi-modal AI UX",
-            src: "/image2.jpeg",
+            src: "/image2.png",
         },
     ];
 
