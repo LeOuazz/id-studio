@@ -30,35 +30,35 @@ export default function AboutPage() {
                 "We craft brand identities that resonate and evolve — from bold logos to immersive guidelines that tell your story visually.",
             name: "Branding",
             designation: "Visual identity, logo design, art direction",
-            src: "/image.png",
+            src: "/image.jpeg",
         },
         {
             quote:
                 "At iD Studio, we design digital experiences that blend aesthetics with performance — websites, apps, and platforms that move.",
             name: "UI/UX & Web Design",
             designation: "Figma, Webflow, Next.js, Tailwind CSS",
-            src: "/image3.png",
+            src: "/image3.jpeg",
         },
         {
             quote:
                 "We develop full-stack applications that scale — from MVPs to custom dashboards with beautiful frontends and bulletproof backends.",
             name: "Full-Stack Development",
             designation: "React, Next.js, Firebase, Tailwind, Appwrite",
-            src: "/image4.png",
+            src: "/image4.jpeg",
         },
         {
             quote:
                 "We build intelligent agents and personalized AI assistants tailored to your workflow, using the latest in LLMs and generative AI.",
             name: "AI Agents",
             designation: "Custom GPTs, workflow automation, LLM integration",
-            src: "/image(1).png",
+            src: "/image(1).jpeg",
         },
         {
             quote:
                 "From scheduling to strategic insights, we help you create personal AI copilots that act with precision and context-awareness.",
             name: "Personal AI Assistant",
             designation: "Copilots, assistants, multi-modal AI UX",
-            src: "/image2.png",
+            src: "/image2.jpeg",
         },
     ];
 
