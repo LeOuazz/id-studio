@@ -37,7 +37,7 @@ export default function AboutPage() {
                 "At iD Studio, we design digital experiences that blend aesthetics with performance — websites, apps, and platforms that move.",
             name: "UI/UX & Web Design",
             designation: "Figma, Webflow, Next.js, Tailwind CSS",
-            src: "/image3.jpeg",
+            src: "/image3.png",
         },
         {
             quote:
